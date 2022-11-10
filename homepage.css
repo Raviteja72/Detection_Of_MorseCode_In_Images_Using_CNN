@@ -1,0 +1,27 @@
+.header{
+     border: 1px solid black;
+     width: 100%;
+     height: 36%;
+}
+
+#header_img{
+    text-align: center;
+}
+
+.ddl{
+    border: 1px solid black;
+    width: 100%;
+    height: 8%;
+    text-align: center;
+}
+
+.links{
+    font-size: 18px;
+    color: blue;
+}
+
+#paras{
+    font-size: 18px;
+
+}
+
